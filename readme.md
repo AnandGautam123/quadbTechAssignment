@@ -33,60 +33,7 @@ This is a full-stack E-Commerce application built using the MERN stack (MongoDB,
 - MongoDB Atlas or a local MongoDB server
 
 ###Structure
-ecommerce-app/
-|-- backend/
-| |-- controllers/
-| | |-- authController.js
-| | |-- productController.js
-| | |-- cartController.js
-| |
-| |-- models/
-| | |-- User.js
-| | |-- Product.js
-| | |-- Cart.js
-| |
-| |-- routes/
-| | |-- authRoutes.js
-| | |-- productRoutes.js
-| | |-- cartRoutes.js
-| |
-| |-- middleware/
-| | |-- authMiddleware.js
-| |
-| |-- app.js
-| |-- server.js
-|
-|-- frontend/
-| |-- public/
-| |-- src/
-| | |-- components/
-| | | |-- AuthForm.js
-| | | |-- ProductList.js
-| | | |-- ProductDetail.js
-| | | |-- Cart.js
-| | |
-| | |-- redux/
-| | | |-- store.js
-| | | |-- constants.js
-| | | |-- actions/
-| | | | |-- authActions.js
-| | | | |-- productActions.js
-| | | | |-- cartActions.js
-| | | |
-| | | |-- reducers/
-| | | |-- authReducer.js
-| | | |-- productReducer.js
-| | | |-- cartReducer.js
-| | | |-- rootReducer.js
-| | | |--index.js
-| | |
-| | |-- App.js
-| | |-- index.js
-| |
-| |-- package.json
-|
-|-- package.json
-|-- README.md
+<img width="326" alt="Screenshot 2024-07-03 at 12 15 21 PM" src="https://github.com/AnandGautam123/quadbTechAssignment/assets/103447008/e4db135c-2b75-4c4d-a8f4-d6d74eddb2c2">
 
 ### Backend Setup
 
