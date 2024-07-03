@@ -41,26 +41,37 @@ This is a full-stack E-Commerce application built using the MERN stack (MongoDB,
    ```bash
    git clone https://github.com/yourusername/ecommerce-mern.git
    cd ecommerce-mern/backend
-   2.Install dependencies
-   npm install
    ```
-2. Create a .env file in the backend folder and add the following environment variables:
+2.Install dependencies
+ ```bash
+   npm install
+ ```
+4. Create a .env file in the backend folder and add the following environment variables:
    env
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   PORT=8000
-   3.Start the backend server
+    ```bash
+      MONGO_URI=your_mongodb_connection_string
+      JWT_SECRET=your_jwt_secret
+      PORT=8000
+     ```
+5.Start the backend server
+ ```bash
    npm run server
+ ```
 
 ###Frontend Setup
 
 1.Navigate to the frontend folder:
-cd ../frontend
-
+ ```bash
+   cd ../frontend
+ ```
 2.Install dependencies:
-npm install
+ ```bash
+   npm install
+ ```
 3.Start the frontend development server:
-npm start
+ ```bash
+   npm start
+ ```
 
 4.Usage:
 Open your browser and navigate to http://localhost:3000
