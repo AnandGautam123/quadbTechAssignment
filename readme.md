@@ -39,7 +39,7 @@ This is a full-stack E-Commerce application built using the MERN stack (MongoDB,
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/ecommerce-mern.git
+   git clone https://github.com/AnandGautam123/quadbTechAssignment.git
    cd ecommerce-mern/backend
    ```
 2.Install dependencies
