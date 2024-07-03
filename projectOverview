@@ -1,0 +1,54 @@
+ecommerce-app/
+|-- backend/
+| |-- controllers/
+| | |-- authController.js
+| | |-- productController.js
+| | |-- cartController.js
+| |
+| |-- models/
+| | |-- User.js
+| | |-- Product.js
+| | |-- Cart.js
+| |
+| |-- routes/
+| | |-- authRoutes.js
+| | |-- productRoutes.js
+| | |-- cartRoutes.js
+| |
+| |-- middleware/
+| | |-- authMiddleware.js
+| |
+| |-- app.js
+| |-- server.js
+|
+|-- frontend/
+| |-- public/
+| |-- src/
+| | |-- components/
+| | | |-- AuthForm.js
+| | | |-- ProductList.js
+| | | |-- ProductDetail.js
+| | | |-- Cart.js
+| | |
+| | |-- redux/
+| | | |-- store.js
+| | | |-- constants.js
+| | | |-- actions/
+| | | | |-- authActions.js
+| | | | |-- productActions.js
+| | | | |-- cartActions.js
+| | | |
+| | | |-- reducers/
+| | | |-- authReducer.js
+| | | |-- productReducer.js
+| | | |-- cartReducer.js
+| | | |-- rootReducer.js
+| | | |--index.js
+| | |
+| | |-- App.js
+| | |-- index.js
+| |
+| |-- package.json
+|
+|-- package.json
+|-- README.md
